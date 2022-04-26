@@ -1,3 +1,7 @@
+### Deploy link: https://pokemonapp-api.herokuapp.com/
+
+##### This is a simple React App that consume API from the pokomon API, we have implemented pagination and single page pokemon
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
